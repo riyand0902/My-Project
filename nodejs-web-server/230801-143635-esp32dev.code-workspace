@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Asep/OneDrive/Pictures/Documents/PlatformIO/Projects/230801-143635-esp32dev"
+		},
+		{
+			"name": "230809-080632-esp32dev",
+			"path": "C:/Users/Asep/OneDrive/Pictures/Documents/PlatformIO/Projects/230809-080632-esp32dev"
+		}
+	],
+	"settings": {
+		"editor.fontSize": 12,
+		"editor.tabSize": 4,
+		"editor.renderWhitespace": "all",
+		"editor.cursorStyle": "line"
+	}
+}
