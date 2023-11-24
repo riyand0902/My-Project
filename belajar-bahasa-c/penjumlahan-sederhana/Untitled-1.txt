@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main ()
+{
+    int nilai1, nilai2, hasil;
+
+    printf("masukan nilai 1 :);
+    scanf()
+}
